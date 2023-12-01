@@ -16,6 +16,12 @@ Examples for Python Core course
 - [Args and kwargs explained](https://www.programiz.com/python-programming/args-and-kwargs)
 - [Recursion vs Iteration 1](https://www.tutorialspoint.com/difference-between-recursion-and-iteration)
 - [Recursion vs Iteration 2](https://www.geeksforgeeks.org/difference-between-recursion-and-iteration/)
-
+- [Pip commands list](https://opensource.com/sites/default/files/gated-content/cheat_sheet_pip.pdf)
+- [Have fun watching uncle bob](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
+- [Regex tutorial 1](https://github.com/abhirajshourya/Regex-Course/tree/main)
+- [Regex tutorial 2](https://github.com/michelleful/RegexTutorial/tree/master)
+- [Regex tutorial 3](https://github.com/nikhilkumarsingh/RegEx-In-Python/tree/master)
+- [Named tuple](https://realpython.com/python-namedtuple/)
+- [Pre-commit to run black every time commit is done](https://pre-commit.com/)
 
 ![image](https://github.com/OlegAndrus12/GoITSamplesCore/assets/37078272/90d0e16c-f2e7-47c3-a80d-d6217ec77097)
