@@ -1,7 +1,7 @@
 # GoITNeoCore
 Examples for Python Core course
 
-# Useful links:writing_hand:
+# Useful links :writing_hand:
 - [Where download python?](https://www.python.org/downloads/)
 - [W3schools python tutorial](https://www.w3schools.com/python/default.asp)
 - [Git cheetsheet 1](https://education.github.com/git-cheat-sheet-education.pdf)
