@@ -12,7 +12,7 @@ text_url = (
 )
 
 
-result = re.findall(r"https?://\w{3}\.?(?:\w+\.)*\w{2,5}", text_url)
+result = re.findall(r"https?://w{3}\.?[\w+\.]*\w{2,5}", text_url)
 print(result)
 
 # admin@gmail.com
