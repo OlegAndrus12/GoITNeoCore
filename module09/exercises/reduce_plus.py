@@ -2,13 +2,11 @@
 # we made up with all the employees
 
 import json
+from functools import reduce
 
 with open("employees.json") as json_file:
     data = json.load(json_file)
 
-    total_years = 0
-
-    for i in range(len(data)):
-        total_years += data[i]["years_of_experience"]
+    total_years = reduce(lambda x, y: x + y["years_of_experience"], data, 0 )
 
     print(total_years)

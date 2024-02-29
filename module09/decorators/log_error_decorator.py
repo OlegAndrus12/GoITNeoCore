@@ -4,7 +4,7 @@ def log_errors(func):
             return func(*args, **kwargs)
         except Exception as e:
             print(f"Error in {func.__name__}: {e}")
-            raise  # re-throw the last exception
+            # raise  # re-throw the last exception
 
     return wrapper
 
